@@ -1,3 +1,21 @@
+# MODEL1209260000: Koenig2012_HepaticGlucoseMetabolism
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1209260000.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1209260000.git@20140916`
+
+
+# Model Notes
 
 
 # Kinetic Modeling of Human Hepatic Glucose Metabolism in Type 2 Diabetes
@@ -230,4 +248,5 @@ VCITFLX | Citrate flux | mito | N | 0 |  |  |  | SBO:0000014 enzyme
 NDK_mito | Nucleosid diphosphate kinase (GTP) | mito | N | 420 | EC:2.7.4.6 |
 KEGG:R00330 |  | SBO:0000014 enzyme  
 OAAFLX | Oxalacetate flux | mito | N | 0 |  |  |  | SBO:0000014 enzyme
+
 
